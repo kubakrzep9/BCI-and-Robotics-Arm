@@ -1,3 +1,6 @@
+// WORK IN PROGRESS. Trying to implement FABRIK algorithm found online.
+
+
 #include "MoveAlgorithm.h"
 
 void MoveAlgorithm::testMoveAlgorithm(){
