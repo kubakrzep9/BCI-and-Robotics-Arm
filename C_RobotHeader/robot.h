@@ -1,3 +1,5 @@
+// Written by: Jakub Krzeptowski-Mucha
+//
 // The MyRobot class is used to model the physical robotic arm. The class keeps track of 
 // relevant information such as the potpin connections, current servo angle measure, current
 // coordinate, etc. The class also provides the ability to move the arm by inputting each angle
