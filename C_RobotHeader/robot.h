@@ -4,7 +4,7 @@
 // relevant information such as the potpin connections, current servo angle measures, current
 // coordinate and home position. The class also provides the ability to move the arm by inputting each angle
 // measure and eventually by inputting a coordinate. The class also has the ability to send relevant
-// information, that has been requested from the GUI, by using 'instructions' and serial communication. 
+// information, that has been requested from the GUI, by sending 'instructions' through the serial port.  
 
 
 #ifndef ROBOT_H
