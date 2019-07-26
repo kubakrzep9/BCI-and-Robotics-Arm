@@ -1,10 +1,10 @@
 // Written by: Jakub Krzeptowski-Mucha 
 //
-// This program is a GUI which interfaces with a 6-servo robotic arm via serial communications. The user
-// is able to view the arms relevant information: potpins selected, current servo angle measures, home servo
-// angle measures, current coordinate and port connected. The user is able to set the port connection, home
-// position, and potpins. The user can move the arm by using the Move Menu to set each angle measure, enter an
-// (x,y,z) coordinate [WORK IN PROGRESS], or by pressing the tohome button to return to the home position.
+// This is the main file of the GUI program which interfaces with a 6-servo robotic arm via serial communications.
+// The user is able to view the arms relevant information: potpins selected, current servo angle measures, home servo angle 
+// measures, current coordinate and port connected. The user is able to set the port connection, home position, and potpins. 
+// The user can move the arm by using the Move Menu to set each angle measure, enter an(x,y,z) coordinate [WORK IN PROGRESS], 
+// or by pressing the tohome button to return to the home position.
 
 
 
