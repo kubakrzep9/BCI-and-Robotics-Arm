@@ -1,4 +1,4 @@
-#Menu and Screen Descriptions
+# Menu and Screen Descriptions
 
 The GUI has a series of screens and menus. From the Main Menu the user can traverse to the Display Screen, Move Menu or Options Menu. The Display Screen displays all relevant information of the arm: current positions, home position, potpin connections, current coordinate position, and port.
 
