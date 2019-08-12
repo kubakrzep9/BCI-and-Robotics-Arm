@@ -1,4 +1,4 @@
-# BCI-and-Robotics-Arm
+# Brain Control Interface and Robotics Project- Robotic Arm 
 
 This program is a University of Illinois in Chicago (UIC), Engineering in Medicine and Biology Society (EMBS) project. The goal of this project is to be able to control a robotic arm via headset communications. The headset has a set of electrodes that read the wearers brainwaves, where eventually they will control the arm just through thought.
 
