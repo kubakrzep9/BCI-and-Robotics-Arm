@@ -11,3 +11,5 @@ The Move Menu allows the user to move the arm by entering the Algorithm Screen, 
 The Options Menu allows the user to specify their port connection, potpin connections and home position throught the Port, Potpins and Home Screens. The Port Screen displays a list of available ports the user can connect to. The Potpins Screen allows the user to enter a specific potpin for each servo. The Home Screen allows the user to enter specific angle measures for each servo for the home position.  
 
 This project is very much still a work in progress, we had started August 2018. The first semester was really a learning proceses, trying to figure out how all of our equipment worked. I had no previous knowledge of Arduino or how to connect the hardware. We have come a long way, but there still much for us to accomplish. I am excited to see what we can do as a team and what I can learn along the way.
+
+![](name-of-giphy.gif)
