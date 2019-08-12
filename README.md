@@ -12,4 +12,4 @@ The Options Menu allows the user to specify their port connection, potpin connec
 
 This project is very much still a work in progress, we had started August 2018. The first semester was really a learning proceses, trying to figure out how all of our equipment worked. I had no previous knowledge of Arduino or how to connect the hardware. We have come a long way, but there still much for us to accomplish. I am excited to see what we can do as a team and what I can learn along the way.
 
-![](https://media.giphy.com/media/v4sOCVX9Dhsv6/giphy.gif)
+                      ![](https://media.giphy.com/media/v4sOCVX9Dhsv6/giphy.gif)
