@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556317-f35f5700-c509-11e9-9ba9-f3b160117e9b.png">
   <br>
-  a
+  The red wires are for power, black wires are for ground, and the yellow wires are the signal wires. 
 </p>
 <p><br><br></p>
 
