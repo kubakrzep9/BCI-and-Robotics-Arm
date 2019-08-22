@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556353-1be75100-c50a-11e9-9b52-043fd3c708ef.png">
   Money Shot
-  <br><br>
 </p>
+
+<p><br><br></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556317-f35f5700-c509-11e9-9ba9-f3b160117e9b.png">
