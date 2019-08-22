@@ -1,5 +1,8 @@
-#include "robot.h"
+// Written by: Jakub Krzeptowski-Mucha
+//
+// MyRobot class method definitions
 
+#include "robot.h"
 
 // Moves arm to the initial position. Called from the setUp function in the MyRobot class which 
 // is called in the setup function of the Arduino program. 
