@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556353-1be75100-c50a-11e9-9b52-043fd3c708ef.png">
+  <br>
   Money Shot
 </p>
 
