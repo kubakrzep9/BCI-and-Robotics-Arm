@@ -1,4 +1,4 @@
-<h2 align="center">Options Menu</h2>
+<h2 align="center">Options Menu and Screens</h2>
 <br>
 
 <h4 align="center">.</h4>
