@@ -25,6 +25,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63558897-88674d80-c514-11e9-9ce3-9bb287c93f1c.png">
   <br>
-  Set Home Position Screen. The home position is set by default, this screen allows the user to set each servo's home position.
+  Set Home Position Screen. The home position is set by default, this screen allows the user to set the angle measure of each servo's home position.
 </p>
 <p><br><br></p>
