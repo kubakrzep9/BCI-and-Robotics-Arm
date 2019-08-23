@@ -10,8 +10,8 @@ The Options Menu allows the user to specify their port connection, potpin connec
 <br>
 <h4 align="center">Main Menu</h4>
 <p align="center">
-  <img src="![MainMenu](https://user-images.githubusercontent.com/44120038/63558691-8e106380-c513-11e9-9829b5a68efd3afd.png)">
+  <img src="https://user-images.githubusercontent.com/44120038/63558691-8e106380-c513-11e9-9829b5a68efd3afd.png">
   <br>
-  Arm uses six servos, each with 180 degrees of freedom. All servos are centered on 90 degrees.
+  .
 </p>
 <p><br><br></p>
