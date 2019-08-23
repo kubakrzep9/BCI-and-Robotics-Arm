@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63559399-e5fc9980-c516-11e9-9629-f46c9df9b694.png">
   <br>
-  Move Menu Screen. The user can decide how to move the arm, either by entering the Move Algorithm or Move Angles Screens, or by pressing the "TOHOME" Button.
+  Move Menu Screen. The user can decide how to move the arm, either by entering the Move Algorithm or Move Angles Screens, or by pressing the "TOHOME" Button, which returns the arm to it's home position.
 </p>
 <p><br><br></p>
 
