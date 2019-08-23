@@ -18,5 +18,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63559423-0cbad000-c517-11e9-8bf6-58725a560263.png">
   <br>
-  Move Angles Screen. The user may enter the angle measures for the servo they would like to move. By clicking "submit", the servos move to the user input angle measures.
+  Move Angles Screen. The user may enter the angle measures for the servo they would like to move. By clicking "submit", the servos move to the user input angle measures. The current servo angle measures are also displayed.
 </p>
