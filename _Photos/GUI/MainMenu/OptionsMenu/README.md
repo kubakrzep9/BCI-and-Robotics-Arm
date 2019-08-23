@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63558892-869d8a00-c514-11e9-8939-44b035ce92b3.png">
   <br>
-  Potpin Selection Screen. The potpins are set by default, this screen allows the user to set each servo's potpin.
+  Potpin Selection Screen. The potpins are set by default, this screen allows the user to set each servo's potpin connection.
 </p>
 <p><br><br></p>
 
