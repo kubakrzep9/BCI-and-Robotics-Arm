@@ -6,3 +6,12 @@ The GUI has a series of screens and menus. From the Main Menu the user can trave
 The Move Menu allows the user to move the arm by entering the Algorithm Screen, Angles Screen or by pressing the tohome button. From the Algorithm Screen the user would input an (x,y,z) coordinate to where the hand of the arm would traverse to (algorithm still a work in progress). From the Angles Screen the user would input each servo angle measure for the arm to move to. By clicking the tohome button, the user would move the arm to it's home position. The home position is set to a default position, but can be customized from the Options Menu.
 
 The Options Menu allows the user to specify their port connection, potpin connections and home position throught the Port, Potpins and Home Screens. The Port Screen displays a list of available ports the user can connect to. The Potpins Screen allows the user to enter a specific potpin for each servo. The Home Screen allows the user to enter specific angle measures for each servo for the home position.
+
+<br>
+<h4 align="center">Main Menu</h4>
+<p align="center">
+  <img src="![MainMenu](https://user-images.githubusercontent.com/44120038/63558691-8e106380-c513-11e9-9829b5a68efd3afd.png)">
+  <br>
+  Arm uses six servos, each with 180 degrees of freedom. All servos are centered on 90 degrees.
+</p>
+<p><br><br></p>
