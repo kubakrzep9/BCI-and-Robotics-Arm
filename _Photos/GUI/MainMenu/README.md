@@ -12,6 +12,6 @@ The Options Menu allows the user to specify their port connection, potpin connec
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63558754-cc0d8780-c513-11e9-9b36-57b6801c56c6.png">
   <br>
-  From the Main Menu the user has the choice to display the current arm information, to move the arm, to set the arm settings or to exit the program.  
+  From the Main Menu the user has the choice to display the current arm information, to move the arm, to set the arm's settings or to exit the program.  
 </p>
 <p><br><br></p>
