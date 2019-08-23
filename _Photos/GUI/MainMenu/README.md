@@ -10,7 +10,7 @@ The Options Menu allows the user to specify their port connection, potpin connec
 <br>
 <h4 align="center">Main Menu</h4>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44120038/63558691-8e106380-c513-11e9-9829b5a68efd3afd.png">
+  <img src="https://user-images.githubusercontent.com/44120038/63558754-cc0d8780-c513-11e9-9b36-57b6801c56c6.png">
   <br>
   .
 </p>
