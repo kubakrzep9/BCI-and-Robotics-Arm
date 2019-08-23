@@ -21,14 +21,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556334-05d99080-c50a-11e9-998d-c1e7b3e77f45.png">
   <br>
-  Arm and Circuit
+  The brown wires extending from the servos are the same as the black wires, ground. The red wires from the servo are the same as the red wires, power. The orange wires from the servo are the same as the yellow wires, signal. 
 </p>
 <p><br><br></p>
 
 
-<h4 align="center">Arm Circuit</h4>
+<h4 align="center">Circuit Board</h4>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556345-0ffb8f00-c50a-11e9-99c3-1eec4b4e5193.png">
   <br>
-  a
+  The red light being lit indicates that the power supply for the arm is plugged in. The power supply is the cable on the left side of image, with the black and red wire extending to the circuit. The blue light being lit indicates that the Arduino is connected the computer.  
 </p>
