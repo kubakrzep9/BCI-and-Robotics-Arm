@@ -30,5 +30,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63556345-0ffb8f00-c50a-11e9-99c3-1eec4b4e5193.png">
   <br>
-  The red light being lit indicates that the power supply for the arm is plugged in. The power supply is the cable on the left side of image, with the black and red wire extending to the circuit. The blue light being lit indicates that the Arduino is connected the computer.  
+  The red light being lit indicates that the power supply for the arm is plugged in. The power supply is the cable on the left side of image, with the black and red wire extending to the circuit. The blue light being lit indicates that the Arduino is connected the computer. The cable to connect the Arduino is on the right side of the image.
 </p>
