@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/63558889-843b3000-c514-11e9-9367-a1abbaecfb0d.png">
   <br>
-  Port Selection Screen. The user must select a port from the menu and click the connect. If the port cannot be connected to an error message will be prompted on the screen. If the port connection is successful the screen will display the connected port. 
+  Port Selection Screen. The user must select a port from the menu and click the connect button. If the port cannot be connected to an error message will be prompted on the screen. If the port connection is successful the screen will display the connected port. 
 </p>
 <p><br><br></p>
 
