@@ -1,7 +1,7 @@
 # Brain Control Interface and Robotics Project- Robotic Arm 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44120038/63777515-d7143f00-c8a8-11e9-8c45-41de01356310.jpg">
+  <img src="https://user-images.githubusercontent.com/44120038/63777629-0aef6480-c8a9-11e9-9bfc-7f3cc781ba70.jpg">
 </p>
 
 
