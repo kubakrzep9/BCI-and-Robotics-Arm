@@ -1,4 +1,4 @@
-# Brain Control Interface and Robotics Project- Robotic Arm 
+# Brain Computer Interface and Robotics Project- Robotic Arm 
 
 <p align="center">
   <img width="512" height="512" src="https://user-images.githubusercontent.com/44120038/63777744-3d995d00-c8a9-11e9-9686-686be56e0dae.jpg">
