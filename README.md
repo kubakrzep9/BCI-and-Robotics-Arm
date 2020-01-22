@@ -7,8 +7,6 @@
 [DISCONTINUED]
 Note: After a change in leadership and a number of unsuccessful attempts at decoding brainwave data, the project had been modified to use a Position System to interface the Robotic Arm. The updated project is located <a href="https://github.com/kubakrzep9/Robotic-Arm-Interface">here</a>. The interface for the BCI project is complete, for it's purposes, as the Robotic Arm Interface is a completely redesigned interface.  
 
-PROJECT DESCRIPTION 
-
 This program is a University of Illinois in Chicago (UIC), Engineering in Medicine and Biology Society (EMBS) project. The goal of this project is to be able to control a robotic arm via headset communications. The headset has a set of electrodes that read the wearers brainwaves, where eventually they will control the arm just through thought.
 
 This program is used to control the robotic arm using a GUI. The GUI interfaces the arm through serial communication to an Arduino, where instructions are passed back and forth. So far the user is able to move the arm by specifying each servo angle measure, but eventually the program will feature an algorithm that will allow the user to simply enter an (x,y,z) coordinate, to where the hand of the arm will travel to.
