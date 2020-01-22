@@ -4,6 +4,8 @@
   <img width="512" height="512" src="https://user-images.githubusercontent.com/44120038/63777744-3d995d00-c8a9-11e9-9686-686be56e0dae.jpg">
 </p>
 
+[DISCONTINUED NOTE] 
+
 
 This program is a University of Illinois in Chicago (UIC), Engineering in Medicine and Biology Society (EMBS) project. The goal of this project is to be able to control a robotic arm via headset communications. The headset has a set of electrodes that read the wearers brainwaves, where eventually they will control the arm just through thought.
 
